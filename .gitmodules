@@ -1,0 +1,3 @@
+[submodule "src/submodule"]
+	path = src/submodule
+	url = https://github.com/zhq-meili/miMall.git
